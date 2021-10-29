@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 int main() {
-  printf("Hello World");
+  printf("Never Gonna Give You Up\n");
   return 0;
 }
 ```
